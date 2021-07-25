@@ -7,6 +7,8 @@ Flutter Simple UI
 
 
 Requirements:
-employee entry process
-The process of deleting an employee
-The process of modifying employee data
+1-employee entry process
+
+2-The process of deleting an employee
+
+3-The process of modifying employee data
