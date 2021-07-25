@@ -3,7 +3,7 @@ Simple example: Spring boot Api with Flutter
 
 Spring boot api with mySql and JWT 
 
-Flutter Simple UI
+Flutter : Simple UI
 
 
 Requirements:
